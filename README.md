@@ -1,5 +1,5 @@
 
-![play_sumple](![S__10469381](https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/c5704bf0-8e23-4d19-a5e1-b9a3daf61169)
+
 https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/f8ab12ec-a342-4e3b-8e34-fb01c29714e9)
 
 # DemiseofCrown
