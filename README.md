@@ -1,8 +1,9 @@
+
+![play_sumple](https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/f8ab12ec-a342-4e3b-8e34-fb01c29714e9)
+
 # DemiseofCrown
 Untiyで制作したオリジナルアクションRPG
 プレイ動画：https://youtu.be/1Tsf9oUQMhg
-![無題の動画_‐_Clipchampで作成__9__AdobeExpress](https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/fb171b22-5718-462a-967d-877ed69f11e8)
-
 
 
 
