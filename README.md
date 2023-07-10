@@ -1,6 +1,8 @@
 
+![S__10469381](https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/951165d3-e287-4e5a-9735-c472680e91d2)
 
-https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/f8ab12ec-a342-4e3b-8e34-fb01c29714e9)
+![play_sumple](https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/6a7933d4-7064-4a18-b046-599e352573d8)
+
 
 # DemiseofCrown
 Untiyで制作したオリジナルアクションRPG
