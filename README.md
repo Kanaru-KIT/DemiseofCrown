@@ -1,6 +1,6 @@
 <p float="left">
   <img src="https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/951165d3-e287-4e5a-9735-c472680e91d2" width="240" style="margin-right: 10px;" />
-  <img src="https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/6a7933d4-7064-4a18-b046-599e352573d8" width="240" /> 
+  <img src="https://github.com/Kanaru-KIT/DemiseofCrown/assets/112527552/6a7933d4-7064-4a18-b046-599e352573d8" width="480" /> 
 </p>
 
 # DemiseofCrown
